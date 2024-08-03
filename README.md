@@ -1,9 +1,9 @@
-<h1 align="center">Hello There 👋, I'm Aneesh Sharna</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Aneesh ✌</h1>
+<h3 align="center">Coding for fun 😁</h3>
 
-- 🔭 I’m currently working on **Modern UI Design**
+- 👀 I’m currently looking for **Hackathons**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
