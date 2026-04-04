@@ -1,4 +1,3 @@
-<h1 align="center">Aneesh</h1>
 <h3 align="center">Coding because got nothing else to do</h3>
 
 Casual computer wielder. Maths Geek. Anime manga enthusiast. Chess Player (600 elo btw).
